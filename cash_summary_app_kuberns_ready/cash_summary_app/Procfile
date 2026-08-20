@@ -1,1 +1,0 @@
-web: gunicorn cash_summary.wsgi:application
